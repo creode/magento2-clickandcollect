@@ -1,0 +1,21 @@
+{
+    "name": "creode/magento2-clickandcollect",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "creode@creode.co.uk",
+            "name": "Creode"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Creode\\ClickAndCollect\\": ""
+        }
+    }
+}
